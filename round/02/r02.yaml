@@ -1,0 +1,60 @@
+name: Tease
+speed: 2
+audio_level: 0.0
+cut: interleave
+bmcfg: Amerie-Touch-2021.03.03.bmcfg.json
+sources:
+  - /mnt/d/4K/PlayboyPlus.20.04.06.Riley.Anne.Reflecting.Light.XXX.2160p.MP4-KTR[rarbg]/playboyplus.20.04.06.riley.anne.reflecting.light.4k.mp4
+  - /mnt/d/4K/MetArt.20.01.12.Lola.Krit.I.Will.Come.To.You.XXX.2160p.MP4-KTR[rarbg]/metart.20.01.12.lola.krit.i.will.come.to.you.4k.mp4
+  - /mnt/d/4K/PlayboyPlus.20.05.09.Kylie.Belle.And.Putri.Cinta.Together.In.Paradise.XXX.2160p.MP4-KTR[rarbg]/playboyplus.20.05.09.kylie.belle.and.putri.cinta.together.in.paradise.4k.mp4
+  - /mnt/d/4K/Hegre.20.05.05.A.Day.In.The.Life.Of.Alya.XXX.2160p.MP4-KTR[rarbg]/hegre.20.05.05.a.day.in.the.life.of.alya.4k.mp4
+  - /mnt/d/4K/PlayboyPlus.20.02.10.Kayla.Coyote.Center.Stage.XXX.2160p.MP4-KTR[rarbg]/playboyplus.20.02.10.kayla.coyote.center.stage.4k.mp4
+  - /mnt/d/4K/PlayboyPlus.19.10.29.Abella.Danger.Inner.Awakening.XXX.2160p.MP4-KTR[rarbg]/playboyplus.19.10.29.abella.danger.inner.awakening.4k.mp4
+  - /mnt/d/4K/PlayboyPlus.19.12.16.Marine.Lecourt.Touch.The.Sky.XXX.2160p.MP4-KTR[rarbg]/playboyplus.19.12.16.marine.lecourt.touch.the.sky.4k.mp4
+  - /mnt/d/4K/Hegre.20.05.19.Ariel.Nude.Shoot.XXX.2160p.MP4-KTR[rarbg]/hegre.20.05.19.ariel.nude.shoot.4k.mp4
+credits:
+  audio:
+    - artist: Amerie
+      song: Touch
+  video:
+    - studio: PlayboyPlus
+      date: 2020.04.06
+      title: Reflecting Light
+      performers:
+        - Riley Anne
+    - studio: MetArt
+      date: 2020.01.12
+      title: I Will Come To You
+      performers:
+        - Lola Krit
+    - studio: PlayboyPlus
+      date: 2020.05.09
+      title: Together In Paradise
+      performers:
+        - Kylie Belle
+        - Putri Cinta
+    - studio: Hegre
+      date: 2020.05.05
+      title: A Day In The Life Of Alya
+      performers:
+        - Alya
+    - studio: PlayboyPlus
+      date: 2020.02.10
+      title: Center Stage
+      performers:
+        - Kayla Coyote
+    - studio: PlayboyPlus
+      date: 2019.10.29
+      title: Inner Awakening
+      performers:
+        - Abella Danger
+    - studio: PlayboyPlus
+      date: 2019.12.16
+      title: Touch The Sky
+      performers:
+        - Marine Lecourt
+    - studio: Hegre
+      date: 2020.05.19
+      title: Nude Shoot
+      performers:
+        - Ariel
