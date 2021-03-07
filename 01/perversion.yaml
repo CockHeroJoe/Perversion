@@ -1,11 +1,11 @@
 name: Perversion
-#assemble: true
+assemble: true
 fps: 60
 xdim: 3840
 ydim: 2160
 rounds:
   - round/01/r01.yaml
-  #- round/02/r02.yaml
+  - round/02/r02.yaml
   - round/03/r03.yaml
   - round/04/r04.yaml
   - round/05/r05.yaml
@@ -17,4 +17,4 @@ rounds:
   - round/11/r11.yaml
   - round/12/r12.yaml
   - round/13/r13.yaml
-  #- round/14/r14.yaml
+  - round/14/r14.yaml
