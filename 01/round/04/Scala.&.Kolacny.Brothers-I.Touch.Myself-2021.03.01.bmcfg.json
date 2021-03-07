@@ -1,1 +1,381 @@
-{"version": "0.2.3", "data": {"flyingBeatmeter": {"messageBorderColor": "0.0,0.0,0.0,1.0", "imageDirectory": {"#ref": "5"}, "backgroundColor": "0.0,0.0,0.0,0.0", "beatDuration": 0.15, "margin": 5.0, "beatMarkerColor": "0.4000000059604645,0.3019607961177826,0.7019608020782471,1.0", "#id": "17", "frames": 60.0, "beatHighlightedColor": "0.7019608020782471,0.6000000238418579,1.0,1.0", "height": 40.0, "beatScale": 1.5, "messageFont": {"#id": "16", "_3": true, "_2": 60.0, "_1": "Courgette", "_4": false}, "messageBorderStrength": 0.5, "messageColor": "0.501960813999176,0.4000000059604645,0.800000011920929,1.0", "messagePosition": 0.5, "beatHighlightedBorderColor": "0.9019607901573181,0.800000011920929,1.0,1.0", "messageAlign": {"#cls": "io.gitlab.sklavedaniel.beatmetergenerator.utils.AlignCenter$", "#val": {"#scalaObj": "io.gitlab.sklavedaniel.beatmetergenerator.utils.AlignCenter"}}, "position": 0.15, "beatBorderColor": "1.0,1.0,1.0,1.0", "width": 3840.0, "beatColor": "0.501960813999176,0.4000000059604645,0.800000011920929,1.0", "speed": 0.2}, "#id": "20", "audio": {"#id": "15", "#elems": ["Scala.&.Kolacny.Brothers-I.Touch.Myself.wav"]}, "flying": true, "content": {"#id": "14", "#elems": [{"#id": "6", "play": true, "beat": {"#id": "5", "#elems": []}, "content": {"#id": "4", "#elems": [{"#id": "3", "_1": 0.6225967054846819, "_2": 129.99118035566246, "_3": {"#cls": "io.gitlab.sklavedaniel.beatmetergenerator.utils.ImmutableTracks_V0_2_0$ImmutableBPMPattern", "#val": {"#id": "2", "highlightFirst": false, "bpm": 66.0, "beat": {"#id": "1", "highlight": false}}}}]}, "title": "Beats", "snap": false, "record": false, "display": true}, {"#id": "8", "play": false, "beat": {"#ref": "5"}, "content": {"#id": "7", "#elems": []}, "title": "Messages", "snap": false, "record": false, "display": false}, {"#id": "13", "play": false, "beat": {"#ref": "5"}, "content": {"#id": "12", "#elems": [{"#id": "11", "_1": 0.622145734597013, "_2": 131.69356238222574, "_3": {"#cls": "io.gitlab.sklavedaniel.beatmetergenerator.utils.ImmutableTracks_V0_2_0$ImmutableBPMPattern", "#val": {"#id": "10", "highlightFirst": false, "bpm": 66.0, "beat": {"#id": "9", "highlight": false}}}}]}, "title": "Base", "snap": false, "record": false, "display": false}]}, "waveformBeatmeter": {"messageBorderColor": "0.0,0.0,0.0,1.0", "imageDirectory": {"#ref": "5"}, "backgroundColor": "0.027450980618596077,0.027450980618596077,0.027450980618596077,0.7333333492279053", "margin": 5.0, "#id": "19", "frames": 25.0, "height": 40.0, "endPosition": 0.0, "messageFont": {"#id": "18", "_3": true, "_2": 60.0, "_1": "Courgette", "_4": false}, "messageBorderStrength": 0.5, "foregroundColor": "0.0,0.0,0.0,0.0", "messageColor": "0.16470588743686676,0.5960784554481506,1.0,1.0", "messagePosition": 0.5, "messageAlign": {"#cls": "io.gitlab.sklavedaniel.beatmetergenerator.utils.AlignCenter$", "#val": {"#scalaObj": "io.gitlab.sklavedaniel.beatmetergenerator.utils.AlignCenter"}}, "position": 0.4, "markerColor": "1.0,0.8941176533699036,0.0,1.0", "startPosition": 1.0, "width": 1280.0, "waveHighlightedColor": "1.0,0.24313725531101227,0.18431372940540314,1.0", "waveColor": "0.16470588743686676,0.5960784554481506,1.0,1.0", "speed": 0.3}}}
+{
+    "version": "0.2.3",
+    "data": {
+        "flyingBeatmeter": {
+            "messageBorderColor": "0.0,0.0,0.0,1.0",
+            "imageDirectory": {
+                "#ref": "46"
+            },
+            "backgroundColor": "0.0,0.0,0.0,0.0",
+            "beatDuration": 0.15,
+            "margin": 5.0,
+            "beatMarkerColor": "0.4000000059604645,0.3019607961177826,0.7019608020782471,1.0",
+            "#id": "58",
+            "frames": 60.0,
+            "beatHighlightedColor": "0.7019608020782471,0.6000000238418579,1.0,1.0",
+            "height": 40.0,
+            "beatScale": 1.5,
+            "messageFont": {
+                "#id": "57",
+                "_3": true,
+                "_2": 60.0,
+                "_1": "Courgette",
+                "_4": false
+            },
+            "messageBorderStrength": 0.5,
+            "messageColor": "0.501960813999176,0.4000000059604645,0.800000011920929,1.0",
+            "messagePosition": 0.5,
+            "beatHighlightedBorderColor": "0.9019607901573181,0.800000011920929,1.0,1.0",
+            "messageAlign": {
+                "#cls": "io.gitlab.sklavedaniel.beatmetergenerator.utils.AlignCenter$",
+                "#val": {
+                    "#scalaObj": "io.gitlab.sklavedaniel.beatmetergenerator.utils.AlignCenter"
+                }
+            },
+            "position": 0.15,
+            "beatBorderColor": "1.0,1.0,1.0,1.0",
+            "width": 3840.0,
+            "beatColor": "0.501960813999176,0.4000000059604645,0.800000011920929,1.0",
+            "speed": 0.2
+        },
+        "#id": "61",
+        "audio": {
+            "#id": "56",
+            "#elems": [
+                "Scala.&.Kolacny.Brothers-I.Touch.Myself.wav"
+            ]
+        },
+        "flying": true,
+        "content": {
+            "#id": "55",
+            "#elems": [
+                {
+                    "#id": "47",
+                    "play": true,
+                    "beat": {
+                        "#id": "46",
+                        "#elems": []
+                    },
+                    "content": {
+                        "#id": "45",
+                        "#elems": [
+                            {
+                                "#id": "3",
+                                "_1": 0.6225967054846819,
+                                "_2": 8.660543618507315,
+                                "_3": {
+                                    "#cls": "io.gitlab.sklavedaniel.beatmetergenerator.utils.ImmutableTracks_V0_2_0$ImmutableBPMPattern",
+                                    "#val": {
+                                        "#id": "2",
+                                        "highlightFirst": false,
+                                        "bpm": 66.0,
+                                        "beat": {
+                                            "#id": "1",
+                                            "highlight": false
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "#id": "16",
+                                "_1": 8.8039697732108,
+                                "_2": 23.320922248446887,
+                                "_3": {
+                                    "#cls": "io.gitlab.sklavedaniel.beatmetergenerator.utils.ImmutableTracks_V0_2_0$ImmutableBeatsPattern",
+                                    "#val": {
+                                        "pattern": {
+                                            "#id": "14",
+                                            "#elems": [
+                                                {
+                                                    "#id": "5",
+                                                    "_1": 0.0,
+                                                    "_2": 0.05,
+                                                    "_3": {
+                                                        "#id": "4",
+                                                        "highlight": false
+                                                    }
+                                                },
+                                                {
+                                                    "#id": "7",
+                                                    "_1": 0.9071552267891989,
+                                                    "_2": 0.957155226789199,
+                                                    "_3": {
+                                                        "#id": "6",
+                                                        "highlight": false
+                                                    }
+                                                },
+                                                {
+                                                    "#id": "9",
+                                                    "_1": 1.817478848868251,
+                                                    "_2": 1.867478848868251,
+                                                    "_3": {
+                                                        "#id": "8",
+                                                        "highlight": false
+                                                    }
+                                                },
+                                                {
+                                                    "#id": "11",
+                                                    "_1": 2.2731552267891986,
+                                                    "_2": 2.3231552267891984,
+                                                    "_3": {
+                                                        "#id": "10",
+                                                        "highlight": false
+                                                    }
+                                                },
+                                                {
+                                                    "#id": "13",
+                                                    "_1": 2.7269514842490223,
+                                                    "_2": 2.776951484249022,
+                                                    "_3": {
+                                                        "#id": "12",
+                                                        "highlight": false
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "#id": "15",
+                                        "highlightFirstPattern": false,
+                                        "patternDuration": 3.6331552267891993,
+                                        "highlightFirst": false
+                                    }
+                                }
+                            },
+                            {
+                                "#id": "25",
+                                "_1": 24.713124999999998,
+                                "_2": 39.6681352591045,
+                                "_3": {
+                                    "#cls": "io.gitlab.sklavedaniel.beatmetergenerator.utils.ImmutableTracks_V0_2_0$ImmutableBeatsPattern",
+                                    "#val": {
+                                        "pattern": {
+                                            "#id": "23",
+                                            "#elems": [
+                                                {
+                                                    "#id": "18",
+                                                    "_1": 0.0,
+                                                    "_2": 0.05,
+                                                    "_3": {
+                                                        "#id": "17",
+                                                        "highlight": false
+                                                    }
+                                                },
+                                                {
+                                                    "#id": "20",
+                                                    "_1": 0.9095383034655641,
+                                                    "_2": 0.9595383034655641,
+                                                    "_3": {
+                                                        "#id": "19",
+                                                        "highlight": false
+                                                    }
+                                                },
+                                                {
+                                                    "#id": "22",
+                                                    "_1": 1.3642370794109013,
+                                                    "_2": 1.4142370794109014,
+                                                    "_3": {
+                                                        "#id": "21",
+                                                        "highlight": false
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "#id": "24",
+                                        "highlightFirstPattern": false,
+                                        "patternDuration": 1.8170000000000073,
+                                        "highlightFirst": false
+                                    }
+                                }
+                            },
+                            {
+                                "#id": "28",
+                                "_1": 43.35043131822466,
+                                "_2": 56.93094396541771,
+                                "_3": {
+                                    "#cls": "io.gitlab.sklavedaniel.beatmetergenerator.utils.ImmutableTracks_V0_2_0$ImmutableBPMPattern",
+                                    "#val": {
+                                        "#id": "27",
+                                        "highlightFirst": false,
+                                        "bpm": 66.0,
+                                        "beat": {
+                                            "#id": "26",
+                                            "highlight": false
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "#id": "41",
+                                "_1": 56.986178946877885,
+                                "_2": 71.50313142211397,
+                                "_3": {
+                                    "#cls": "io.gitlab.sklavedaniel.beatmetergenerator.utils.ImmutableTracks_V0_2_0$ImmutableBeatsPattern",
+                                    "#val": {
+                                        "pattern": {
+                                            "#id": "39",
+                                            "#elems": [
+                                                {
+                                                    "#id": "30",
+                                                    "_1": 0.0,
+                                                    "_2": 0.05,
+                                                    "_3": {
+                                                        "#id": "29",
+                                                        "highlight": false
+                                                    }
+                                                },
+                                                {
+                                                    "#id": "32",
+                                                    "_1": 0.9071552267891989,
+                                                    "_2": 0.957155226789199,
+                                                    "_3": {
+                                                        "#id": "31",
+                                                        "highlight": false
+                                                    }
+                                                },
+                                                {
+                                                    "#id": "34",
+                                                    "_1": 1.817478848868251,
+                                                    "_2": 1.867478848868251,
+                                                    "_3": {
+                                                        "#id": "33",
+                                                        "highlight": false
+                                                    }
+                                                },
+                                                {
+                                                    "#id": "36",
+                                                    "_1": 2.2731552267891986,
+                                                    "_2": 2.3231552267891984,
+                                                    "_3": {
+                                                        "#id": "35",
+                                                        "highlight": false
+                                                    }
+                                                },
+                                                {
+                                                    "#id": "38",
+                                                    "_1": 2.7269514842490223,
+                                                    "_2": 2.776951484249022,
+                                                    "_3": {
+                                                        "#id": "37",
+                                                        "highlight": false
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "#id": "40",
+                                        "highlightFirstPattern": false,
+                                        "patternDuration": 3.6331552267891993,
+                                        "highlightFirst": false
+                                    }
+                                }
+                            },
+                            {
+                                "#id": "44",
+                                "_1": 72.89495666830342,
+                                "_2": 130.62130960738529,
+                                "_3": {
+                                    "#cls": "io.gitlab.sklavedaniel.beatmetergenerator.utils.ImmutableTracks_V0_2_0$ImmutableBPMPattern",
+                                    "#val": {
+                                        "#id": "43",
+                                        "highlightFirst": false,
+                                        "bpm": 132.0,
+                                        "beat": {
+                                            "#id": "42",
+                                            "highlight": false
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "title": "Beats",
+                    "snap": false,
+                    "record": false,
+                    "display": true
+                },
+                {
+                    "#id": "49",
+                    "play": false,
+                    "beat": {
+                        "#ref": "46"
+                    },
+                    "content": {
+                        "#id": "48",
+                        "#elems": []
+                    },
+                    "title": "Messages",
+                    "snap": false,
+                    "record": false,
+                    "display": false
+                },
+                {
+                    "#id": "54",
+                    "play": false,
+                    "beat": {
+                        "#ref": "46"
+                    },
+                    "content": {
+                        "#id": "53",
+                        "#elems": [
+                            {
+                                "#id": "52",
+                                "_1": 0.622145734597013,
+                                "_2": 130.71582598505134,
+                                "_3": {
+                                    "#cls": "io.gitlab.sklavedaniel.beatmetergenerator.utils.ImmutableTracks_V0_2_0$ImmutableBPMPattern",
+                                    "#val": {
+                                        "#id": "51",
+                                        "highlightFirst": false,
+                                        "bpm": 132.0,
+                                        "beat": {
+                                            "#id": "50",
+                                            "highlight": false
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "title": "Base",
+                    "snap": false,
+                    "record": false,
+                    "display": false
+                }
+            ]
+        },
+        "waveformBeatmeter": {
+            "messageBorderColor": "0.0,0.0,0.0,1.0",
+            "imageDirectory": {
+                "#ref": "46"
+            },
+            "backgroundColor": "0.027450980618596077,0.027450980618596077,0.027450980618596077,0.7333333492279053",
+            "margin": 5.0,
+            "#id": "60",
+            "frames": 25.0,
+            "height": 40.0,
+            "endPosition": 0.0,
+            "messageFont": {
+                "#id": "59",
+                "_3": true,
+                "_2": 60.0,
+                "_1": "Courgette",
+                "_4": false
+            },
+            "messageBorderStrength": 0.5,
+            "foregroundColor": "0.0,0.0,0.0,0.0",
+            "messageColor": "0.16470588743686676,0.5960784554481506,1.0,1.0",
+            "messagePosition": 0.5,
+            "messageAlign": {
+                "#cls": "io.gitlab.sklavedaniel.beatmetergenerator.utils.AlignCenter$",
+                "#val": {
+                    "#scalaObj": "io.gitlab.sklavedaniel.beatmetergenerator.utils.AlignCenter"
+                }
+            },
+            "position": 0.4,
+            "markerColor": "1.0,0.8941176533699036,0.0,1.0",
+            "startPosition": 1.0,
+            "width": 1280.0,
+            "waveHighlightedColor": "1.0,0.24313725531101227,0.18431372940540314,1.0",
+            "waveColor": "0.16470588743686676,0.5960784554481506,1.0,1.0",
+            "speed": 0.3
+        }
+    }
+}
