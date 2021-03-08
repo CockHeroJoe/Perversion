@@ -4,22 +4,14 @@ audio_level: 0.0
 cut: skip
 bmcfg: Muse-Undisclosed.Desires-2020.10.19.bmcfg.json
 sources:
-  - /mnt/d/4K/PlayboyPlus.19.09.27.Uma.Jolie.Private.Patio.XXX.2160p.MP4-KTR[rarbg]/playboyplus.19.09.27.uma.jolie.private.patio.4k.mp4
   - /mnt/d/4K/PlayboyPlus.19.09.30.Karoline.CC.French.Expression.XXX.2160p.MP4-KTR[rarbg]/playboyplus.19.09.30.karoline.cc.french.expression.4k.mp4
   - /mnt/d/4K/PlayboyPlus.20.01.06.Laura.Devushcat.Soft.Bloom.XXX.2160p.MP4-KTR[rarbg]/playboyplus.20.01.06.laura.devushcat.soft.bloom.4k.mp4
   - /mnt/d/4K/PlayboyPlus.20.01.10.Abella.Danger.Fast.Lane.XXX.2160p.MP4-KTR[rarbg]/playboyplus.20.01.10.abella.danger.fast.lane.4k.mp4
-  - /mnt/d/4K/PlayboyPlus.20.01.17.Riley.Reid.Flashback.Fantasy.XXX.2160p.MP4-KTR[rarbg]/playboyplus.20.01.17.riley.reid.flashback.fantasy.4k.mp4
-  - /mnt/d/4K/MetArt.20.04.28.Nikki.Hill.Inspiration.XXX.2160p.MP4-KTR[rarbg]/metart.20.04.28.nikki.hill.inspiration.4k.mp4
 credits:
   audio:
     - artist: Muse
       song: Undiscosed Desires
   video:
-    - studio: PlayboyPlus
-      title: Private Patio
-      date: 2019.09.27
-      performers:
-        - Uma Jolie
     - studio: PlayboyPlus
       title: French Expression
       date: 2019.09.30
@@ -35,13 +27,3 @@ credits:
       date: 2020.01.10
       performers:
         - Abella Danger
-    - studio: PlayboyPlus
-      title: Flashback Fantasy
-      date: 2020.01.17
-      performers:
-        - Riley Reid
-    - studio: MetArt
-      title: Inspiration
-      date: 2020.04.28
-      performers:
-        - Nikki Hill

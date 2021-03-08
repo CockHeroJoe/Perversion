@@ -1,0 +1,35 @@
+name: Tease
+speed: 2
+audio_level: 0.0
+cut: interleave
+bmcfg: Amerie-Touch-2021.03.03.bmcfg.json
+sources:
+  - /mnt/d/4K/PlayboyPlus.20.02.10.Kayla.Coyote.Center.Stage.XXX.2160p.MP4-KTR[rarbg]/playboyplus.20.02.10.kayla.coyote.center.stage.4k.mp4
+  - /mnt/d/4K/PlayboyPlus.19.10.29.Abella.Danger.Inner.Awakening.XXX.2160p.MP4-KTR[rarbg]/playboyplus.19.10.29.abella.danger.inner.awakening.4k.mp4
+  - /mnt/d/4K/PlayboyPlus.19.12.16.Marine.Lecourt.Touch.The.Sky.XXX.2160p.MP4-KTR[rarbg]/playboyplus.19.12.16.marine.lecourt.touch.the.sky.4k.mp4
+  - /mnt/d/4K/Hegre.20.05.19.Ariel.Nude.Shoot.XXX.2160p.MP4-KTR[rarbg]/hegre.20.05.19.ariel.nude.shoot.4k.mp4
+credits:
+  audio:
+    - artist: Amerie
+      song: Touch
+  video:
+    - studio: PlayboyPlus
+      date: 2020.02.10
+      title: Center Stage
+      performers:
+        - Kayla Coyote
+    - studio: PlayboyPlus
+      date: 2019.10.29
+      title: Inner Awakening
+      performers:
+        - Abella Danger
+    - studio: PlayboyPlus
+      date: 2019.12.16
+      title: Touch The Sky
+      performers:
+        - Marine Lecourt
+    - studio: Hegre
+      date: 2020.05.19
+      title: Nude Shoot
+      performers:
+        - Ariel
